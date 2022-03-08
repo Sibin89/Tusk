@@ -5,4 +5,7 @@ Welcome to kitchen
 Kheer
 Pasta
 chicken fry
+
+beans
+Pizza
 Thank you
